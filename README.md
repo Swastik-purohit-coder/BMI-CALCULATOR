@@ -35,7 +35,7 @@ This calculator helps users quickly find out if they are underweight, normal, ov
 
 ## 📷 Screenshot
 
-(screenshot.png)
+screenshot.png
 
 ---
 
