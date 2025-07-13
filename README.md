@@ -35,7 +35,8 @@ This calculator helps users quickly find out if they are underweight, normal, ov
 
 ## 📷 Screenshot
 
-screenshot.png
+![BMI Calculator Screenshot](screenshot.png)
+
 
 ---
 
